@@ -1,7 +1,7 @@
 n = 4
 D = 
-              0             -1             -2              0
-              4              0              2              4
-              5              1              0              2
-              3             -1              1              0
-This graph doesn't contain negative cycles.
+             -8             -9             -9            -14
+             -9            -10            -10            -15
+            -11            -12            -12            -17
+            -18            -19            -19            -24
+This graph contains negative cycles.
