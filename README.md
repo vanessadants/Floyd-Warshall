@@ -13,6 +13,7 @@ g++ -o floydWarshall floydWarshall.cpp
 
 # Como Executar
 No terminal Linux digite o comando:
+
 ./floydWarshall entrada.txt
 
 # Saída
