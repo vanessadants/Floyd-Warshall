@@ -3,10 +3,12 @@ Esse repositório contém uma implementação do algoritmo de Floyd-Warshall. Es
 
 # Nomenclaturas
 n é o número de vertices do grafo
+
 D nxn matriz representando os pesos do grafo
 
 # Como Compilar
 No terminal Linux digite o comando:
+
 g++ -o floydWarshall floydWarshall.cpp 
 
 # Como Executar
